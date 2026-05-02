@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ryan Schuren | CodeDressing
 
-<!--
-**CodeDressing/CodeDressing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on building real-world systems across restaurant operations, automation, and security-driven programming.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- **TableStack v4** – Restaurant scheduling + labor intelligence platform
+- **Morristown AI Assistant** – AI-powered lodge and event assistant
+- **Gotham Sentinel** – Security-focused web toolkit
+- **AICP** – AI crypto prediction system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Focus Areas
+- Python (Flask, backend systems)
+- Scheduling & operational intelligence
+- Security-driven programming
+- AI-assisted decision systems
+
+## 🌐 Live Work
+- TableStack: https://table-stack-v4.onrender.com
+- Portfolio: https://ryanschuren.wixsite.com/terminalone
+
+## 🧠 Approach
+I build systems that are practical, secure, and designed for real-world use.
+
+## 📫 Contact
+- GitHub: https://github.com/CodeDressing
