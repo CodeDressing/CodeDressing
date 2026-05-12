@@ -15,7 +15,7 @@ Developer focused on building real-world systems across restaurant operations, a
 - AI-assisted decision systems
 
 ## 🌐 Live Work
-- M.A.A. https://morristown-ai-assistant.onrender.com
+- M.A.A. https://morristown-ai-assistant.onrender.com (renders pay take 30-60 seconds to load)
 - TableStack 4.0: https://table-stack-v4.onrender.com
 - Portfolio: https://ryanschuren.wixsite.com/terminalone (refresh if a page doesnt load)
 - Tablestack 2.0 https://tablestack-web-v2.onrender.com
