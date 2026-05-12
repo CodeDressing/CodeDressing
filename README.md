@@ -17,7 +17,7 @@ Developer focused on building real-world systems across restaurant operations, a
 ## 🌐 Live Work
 - M.A.A. https://morristown-ai-assistant.onrender.com
 - TableStack 4.0: https://table-stack-v4.onrender.com
-- Portfolio: https://ryanschuren.wixsite.com/terminalone
+- Portfolio: https://ryanschuren.wixsite.com/terminalone (refresh if a page doesnt load)
 - Tablestack 2.0 https://tablestack-web-v2.onrender.com
 
 ## 🧠 Approach
