@@ -1,6 +1,6 @@
 # Ryan Schuren | CodeDressing
 
-Developer focused on building real-world systems across restaurant operations, automation, and security-driven programming.
+Developer focused on building real-world systems across hospitality operations, automation, and security-driven programming.
 
 ## 🚀 Current Projects
 - **TableStack v4** – Restaurant scheduling + labor intelligence platform
