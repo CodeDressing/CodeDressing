@@ -30,7 +30,7 @@ Completed Stanford Online / DeepLearning.AI Machine Learning Specialization thro
 - [Supervised Machine Learning: Regression & Classification](https://github.com/user-attachments/files/27840306/Coursera.Supervized.MLclassification.regression.pdf)
 - [Advanced Learning Algorithms](https://github.com/user-attachments/files/27840301/Coursera.Advanced.Learning.Algorithms.pdf)
 - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/user-attachments/files/27840306/Coursera.unsupervised.ML.pdf)
-- [Machine Learning Specialization](https://github.com/user-attachments/files/27840249/SPecialization.pdf)
+
 
 ---
 
