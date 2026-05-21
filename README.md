@@ -4,25 +4,6 @@ Developer focused on building practical systems across hospitality operations, a
 
 ---
 
-# 🚀 Current Projects
-
-### ParksideAI
-Hospitality SEO and conversational routing platform for Parkside Tavern.
-
-### TableStack v4
-Restaurant scheduling and labor management platform.
-
-### Morristown AI Assistant
-AI-powered assistant for events and local information.
-
-### Gotham Sentinel
-Security and monitoring-focused web tools.
-
-### AICP
-Experimental AI-assisted crypto analysis project.
-
----
-
 # 🎓 Machine Learning Specialization
 
 Completed the Stanford Online / DeepLearning.AI Machine Learning Specialization through Coursera covering:
