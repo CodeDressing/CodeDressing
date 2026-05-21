@@ -1,82 +1,84 @@
-# Ryan Schuren | CodeDressing
+Ryan Schuren | CodeDressing
 
-Developer focused on building real-world systems across hospitality operations, automation, AI systems, and security-driven programming.
+Developer focused on building practical systems across hospitality operations, automation, AI-assisted workflows, and backend infrastructure.
 
----
+🚀 Current Projects
+ParksideAI – Hospitality SEO and conversational routing platform for Parkside Tavern
+TableStack v4 – Restaurant scheduling and labor management platform
+Morristown AI Assistant – AI-powered assistant for events and local information
+Gotham Sentinel – Security and monitoring-focused web tools
+AICP – Experimental AI-assisted crypto analysis project
+🎓 Machine Learning Specialization
 
-# 🚀 Current Projects
+Completed the Stanford Online / DeepLearning.AI Machine Learning Specialization through Coursera covering:
 
-- **TableStack v4** – Restaurant scheduling + labor intelligence platform
-- **Morristown AI Assistant** – AI-powered lodge and event assistant
-- **Gotham Sentinel** – Security-focused web toolkit
-- **AICP** – AI crypto prediction system
+Supervised Machine Learning
+Regression & Classification
+Neural Networks
+Deep Learning Concepts
+Unsupervised Learning
+Recommender Systems
+Reinforcement Learning
+📚 Certifications
+Machine Learning Specialization
+Supervised Machine Learning: Regression & Classification
+Advanced Learning Algorithms
+Unsupervised Learning, Recommenders, Reinforcement Learning
+🔧 Focus Areas
+Python & Flask
+Backend Systems
+AI-Assisted Applications
+Hospitality & Operational Software
+Conversational AI
+Semantic Search Concepts
+Automation Workflows
+Security-Focused Development
+🌐 Live Work
+ParksideAI
 
----
+AI-powered hospitality routing and SEO platform for Parkside Tavern.
 
-# 🎓 Machine Learning Specialization
+https://your-render-url.onrender.com
 
-Completed Stanford Online / DeepLearning.AI Machine Learning Specialization through Coursera covering:
+Morristown AI Assistant
 
-- Supervised Machine Learning
-- Regression & Classification
-- Advanced Learning Algorithms
-- Neural Networks & Deep Learning
-- Unsupervised Learning
-- Recommender Systems
-- Reinforcement Learning
+https://morristown-ai-assistant.onrender.com
+(Render deployments may take 30–60 seconds to wake up)
 
-## 📚 Certifications
-- [Machine Learning Specialization](https://github.com/user-attachments/files/27840249/SPecialization.pdf)
-- [Supervised Machine Learning: Regression & Classification](https://github.com/user-attachments/files/27840306/Coursera.Supervized.MLclassification.regression.pdf)
-- [Advanced Learning Algorithms](https://github.com/user-attachments/files/27840301/Coursera.Advanced.Learning.Algorithms.pdf)
-- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/user-attachments/files/27840306/Coursera.unsupervised.ML.pdf)
+TableStack 4.0
 
+https://table-stack-v4.onrender.com
 
----
+Terminal One Portfolio
 
-# 🔐 Focus Areas
+https://ryanschuren.wixsite.com/terminalone
 
-- Python (Flask, backend systems)
-- Machine Learning & AI Systems
-- Scheduling & Operational Intelligence
-- Security-Driven Programming
-- AI-Assisted Decision Systems
-- Conversational AI & Semantic Search
+TableStack 2.0
 
----
+https://tablestack-web-v2.onrender.com
 
-# 🌐 Live Work
+🧠 Approach
 
-- **M.A.A.**  
-  https://morristown-ai-assistant.onrender.com  
-  *(renders may take 30–60 seconds to load)*
+I enjoy building systems that combine practical operations, automation, and AI-assisted workflows with real-world usability.
 
-- **TableStack 4.0**  
-  https://table-stack-v4.onrender.com
+Most of my work focuses on:
 
-- **Terminal One Portfolio**  
-  https://ryanschuren.wixsite.com/terminalone  
-  *(refresh if a page doesn’t load)*
+operational tooling
+backend infrastructure
+conversational interfaces
+workflow automation
+scalable web applications
+applied AI concepts
+📫 Contact
+GitHub: https://github.com/CodeDressing
 
-- **TableStack 2.0**  
-  https://tablestack-web-v2.onrender.com
+This version:
 
----
+sounds more mature
+sounds more credible
+avoids over-selling
+still sounds ambitious
+feels more “real engineer”
+reads better to recruiters and technical people
 
-# 🧠 Approach
-
-I build systems that are practical, intelligent, secure, and designed for real-world operational use.
-
-My work combines:
-- AI-assisted workflows
-- backend engineering
-- operational optimization
-- machine learning concepts
-- automation systems
-- and modern web deployment practices
-
----
-
-# 📫 Contact
-
-- GitHub: https://github.com/CodeDressing
+The biggest improvement was changing:
