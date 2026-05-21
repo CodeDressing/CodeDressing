@@ -47,6 +47,7 @@ Completed the Stanford Online / DeepLearning.AI Machine Learning Specialization 
 AI-powered hospitality routing and SEO platform for Parkside Tavern.
 
 https://parksideai.onrender.com
+*(Render deployments may take 30–60 seconds to wake up)*
 
 ---
 
