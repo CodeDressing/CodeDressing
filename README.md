@@ -1,6 +1,5 @@
 # Ryan Schuren | CodeDressing
 
-Developer focused on building practical systems across hospitality operations, automation, AI-assisted workflows, and backend infrastructure.
 
 ---
 
