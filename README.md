@@ -42,6 +42,13 @@ Completed the Stanford Online / DeepLearning.AI Machine Learning Specialization 
 
 # 🌐 Live Work
 
+### Cincinnati Lodge AI
+
+Flask-based web platform featuring JSON-driven content, Jinja templating, SEO-focused architecture, event management workflows, and an extensible AI assistant framework.
+
+https://cincinnati-lodge-ai.onrender.com/
+
+(Render deployments may take 30–60 seconds to wake up)
 ### ParksideAI
 AI-powered hospitality routing and SEO platform for Parkside Tavern.
 
