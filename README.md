@@ -26,8 +26,8 @@ Completed the Stanford Online / DeepLearning.AI Machine Learning Specialization 
 - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/user-attachments/files/27840306/Coursera.unsupervised.ML.pdf)  (May 16, 2026)
 ----------------------------------------------------------------------------------------------------------------
 
-- 🤖 [Neural Networks and Deep Learning (https://github.com/CodeDressing/CodeDressing/blob/main/certificates/Neural_Networks_and_Deep_Learning.pdf)  (June 23, 2026)
-
+- 🤖 [Neural Networks and Deep Learning
+- https://raw.githubusercontent.com/CodeDressing/CodeDressing/main/certificates/Neural_Networks_and_Deep_Learning.pdf
 # 🔧 Focus Areas
 
 - Python & Flask
