@@ -19,13 +19,14 @@ Completed the Stanford Online / DeepLearning.AI Machine Learning Specialization 
 
 - [Machine Learning Specialization](https://github.com/user-attachments/files/27840249/SPecialization.pdf)
 
-- [Supervised Machine Learning: Regression & Classification](https://github.com/user-attachments/files/27840306/Coursera.Supervized.MLclassification.regression.pdf)
+- [Supervised Machine Learning: Regression & Classification](https://github.com/user-attachments/files/27840306/Coursera.Supervized.MLclassification.regression.pdf)  (March 30, 2026)
 
-- [Advanced Learning Algorithms](https://github.com/user-attachments/files/27840301/Coursera.Advanced.Learning.Algorithms.pdf)
+- [Advanced Learning Algorithms](https://github.com/user-attachments/files/27840301/Coursera.Advanced.Learning.Algorithms.pdf)  (April 19, 2026)
 
-- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/user-attachments/files/27840306/Coursera.unsupervised.ML.pdf)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/user-attachments/files/27840306/Coursera.unsupervised.ML.pdf)  (May 16, 2026)
+----------------------------------------------------------------------------------------------------------------
 
----
+- 🤖 [Neural Networks and Deep Learning (June 23, 2026)](https://github.com/CodeDressing/CodeDressing/blob/main/certificates/Neural_Networks_and_Deep_Learning.pdf)
 
 # 🔧 Focus Areas
 
