@@ -1,104 +1,71 @@
-# Ryan Schuren | CodeDressing
+# Ryan M. Schuren
+### Software Developer · Applied AI · Scientific Computing
 
+I build practical software systems that connect backend engineering, intelligent interfaces, scientific research, and real-world operations.
+
+My work spans Python web applications, automation, interactive research tools, and operational software. I focus on turning complex processes into understandable, usable systems—with attention to traceability, maintainability, security, and clear documentation.
 
 ---
 
-# 🎓 Machine Learning Specialization
+## What I Build
 
-Completed the Stanford Online / DeepLearning.AI Machine Learning Specialization through Coursera covering:
+- **Backend & web systems:** Python, Flask, FastAPI, Jinja, REST-style interfaces, data modeling, and deployment workflows.
+- **Applied AI & automation:** Conversational interfaces, workflow assistants, information retrieval, and task-oriented applications.
+- **Scientific software:** Interactive specimen and anatomy atlases, research-oriented knowledge interfaces, and structured scientific data.
+- **Operational tools:** Scheduling, inventory, service workflows, recordkeeping, and business-process automation.
+- **Security-minded engineering:** Authentication, access control, data stewardship, and practical privacy-first design.
 
-- Supervised Machine Learning
-- Regression & Classification
-- Neural Networks
-- Deep Learning Concepts
-- Unsupervised Learning
-- Recommender Systems
-- Reinforcement Learning
+## Selected Public Projects
 
-## 📚 Certifications
+| Project | Focus |
+| --- | --- |
+| [Jockey Hollow Atlas](https://github.com/CodeDressing/Jockey_Hollow_Atlas) | A visual atlas project for exploring and documenting fungal specimens. |
+| [Cincinnati Lodge AI](https://github.com/CodeDressing/cincinnati-lodge-ai) | Flask-based web platform with structured content, event-oriented workflows, and an extensible assistant framework. |
+| [ParksideAI](https://github.com/CodeDressing/ParksideAi) | Hospitality-focused web application exploring AI-assisted navigation and search visibility. |
+| [TableStack](https://github.com/CodeDressing/table-stack-v4) | Iterative restaurant and service-operations software. |
+| [Endocrine Exposure Atlas](https://github.com/CodeDressing/endocrine-exposure-atlas) | Scientific information and visualization project. |
+| [Conway's Game of Life](https://github.com/CodeDressing/Conway-GT.GOL.-1.2) | Exploration of computational systems and cellular automata. |
+
+Some operational and research repositories are intentionally private.
+
+## Selected Live Applications
+
+- [Cincinnati Lodge AI](https://cincinnati-lodge-ai.onrender.com/)
+- [ParksideAI](https://parksideai.onrender.com/)
+- [TableStack 4.0](https://table-stack-v4.onrender.com/)
+- [TableStack 2.0](https://tablestack-web-v2.onrender.com/)
+- [Morristown AI Assistant](https://morristown-ai-assistant.onrender.com/)
+- [Jockey Hollow Atlas](https://jockey-hollow-atlas.onrender.com/)
+
+*Some hosted applications may need time to start after periods of inactivity. Live availability and feature sets can change as projects evolve.*
+
+---
+
+## Machine Learning Education
+
+Completed the **Stanford Online / DeepLearning.AI Machine Learning Specialization** through Coursera, studying supervised and unsupervised learning, regression, classification, neural networks, recommender systems, and reinforcement learning.
+
+### Certificates
 
 - [Machine Learning Specialization](https://github.com/user-attachments/files/27840249/SPecialization.pdf)
+- [Supervised Machine Learning: Regression & Classification — March 30, 2026](https://github.com/user-attachments/files/27840306/Coursera.Supervized.MLclassification.regression.pdf)
+- [Advanced Learning Algorithms — April 19, 2026](https://github.com/user-attachments/files/27840301/Coursera.Advanced.Learning.Algorithms.pdf)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning — May 16, 2026](https://github.com/user-attachments/files/27840306/Coursera.unsupervised.ML.pdf)
+- [Neural Networks and Deep Learning — June 23, 2026](https://raw.githubusercontent.com/CodeDressing/CodeDressing/main/certificates/Neural_Networks_and_Deep_Learning.pdf)
 
-- [Supervised Machine Learning: Regression & Classification](https://github.com/user-attachments/files/27840306/Coursera.Supervized.MLclassification.regression.pdf)  (March 30, 2026)
+## Engineering Approach
 
-- [Advanced Learning Algorithms](https://github.com/user-attachments/files/27840301/Coursera.Advanced.Learning.Algorithms.pdf)  (April 19, 2026)
+**Build for actual use.** I favor working applications that solve concrete problems.
 
-- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/user-attachments/files/27840306/Coursera.unsupervised.ML.pdf)  (May 16, 2026)
-----------------------------------------------------------------------------------------------------------------
+**Make complex subjects navigable.** I use visual models, structured records, and clear explanations to make scientific and operational systems easier to understand.
 
-- 🤖 [Neural Networks and Deep Learning (June 23, 2026)](https://raw.githubusercontent.com/CodeDressing/CodeDressing/main/certificates/Neural_Networks_and_Deep_Learning.pdf)
-- 
-# 🔧 Focus Areas
+**Design for accountability.** Traceability, input validation, access boundaries, and documentation matter as much as the interface.
 
-- Python & Flask
-- Backend Systems
-- AI-Assisted Applications
-- Hospitality & Operational Software
-- Conversational AI
-- Semantic Search Concepts
-- Automation Workflows
-- Security-Focused Development
+**Keep learning.** My projects are a record of continuous study across software engineering, machine learning, mycology, and neuroscience.
 
 ---
 
-# 🌐 Live Work
+### Links
 
-### Cincinnati Lodge AI
-
-Flask-based web platform featuring JSON-driven content, Jinja templating, SEO-focused architecture, event management workflows, and an extensible AI assistant framework.
-
-https://cincinnati-lodge-ai.onrender.com/
-
-(Render deployments may take 30–60 seconds to wake up)
-### ParksideAI
-AI-powered hospitality routing and SEO platform for Parkside Tavern.
-
-https://parksideai.onrender.com
-*(Render deployments may take 30–60 seconds to wake up)*
-
----
-
-### Morristown AI Assistant
-
-https://morristown-ai-assistant.onrender.com
-
-*(Render deployments may take 30–60 seconds to wake up)*
-
----
-
-### TableStack 4.0
-
-https://table-stack-v4.onrender.com
-
----
-
-### Terminal One Portfolio
-
-https://ryanschuren.wixsite.com/terminalone
-
----
-
-### TableStack 2.0
-
-https://tablestack-web-v2.onrender.com
-
----
-
-# 🧠 Approach
-
-I enjoy building systems that combine practical operations, automation, and AI-assisted workflows with real-world usability.
-
-Most of my work focuses on:
-
-- operational tooling
-- backend infrastructure
-- conversational interfaces
-- workflow automation
-- scalable web applications
-- applied AI concepts
-
----
-
-# 📫 Contact
-
-- GitHub: https://github.com/CodeDressing
+- [GitHub](https://github.com/CodeDressing)
+- [Portfolio](https://ryanschuren.wixsite.com/terminalone)
