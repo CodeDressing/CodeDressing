@@ -13,20 +13,18 @@ I prefer useful work, clear thinking, and a measured approach. The software shou
 
 ### Websites
 
-**Direct-access website**
-
-- [Terminal One — Portfolio](https://ryanschuren.wixsite.com/terminalone) — Portfolio and selected work.
-
-**Hosted applications**
-
-These applications are served by hosted backends and may take a moment to start after inactivity.
+**Featured applications**
 
 - [Jockey Hollow Atlas](https://jockey-hollow-atlas.onrender.com/) — Visual fungal specimen atlas.
-- [TableStack](https://table-stack-v4.onrender.com/) — Service and operations software.
 - [ParksideAI](https://parksideai.onrender.com/) — Hospitality-focused web application.
 - [Cincinnati Lodge AI](https://cincinnati-lodge-ai.onrender.com/) — Structured information and event workflows.
 
-*The first impression ought not require a loading screen. The more complicated systems are permitted a moment to collect themselves.*
+**Additional work**
+
+- [TableStack](https://table-stack-v4.onrender.com/) — Service and operations software.
+- [Terminal One — Portfolio](https://ryanschuren.wixsite.com/terminalone) — Earlier portfolio work.
+
+*Some hosted applications may take a moment to start after inactivity.*
 
 ### Selected Work
 
